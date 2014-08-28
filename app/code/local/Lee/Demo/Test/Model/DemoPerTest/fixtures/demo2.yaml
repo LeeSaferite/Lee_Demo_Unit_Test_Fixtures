@@ -1,0 +1,19 @@
+tables:
+  Lee_Demo/Widget:
+    - id: 1
+      name: "Widget 1"
+    - id: 2
+      name: "Widget 2"
+  Lee_Demo/Doodad:
+    - id: 5
+      name: "Doodad 5"
+      widget_id: 1
+    - id: 6
+      name: "Doodad 6"
+      widget_id: 1
+    - id: 7
+      name: "Doodad 7"
+      widget_id: 2
+    - id: 8
+      name: "Doodad 8"
+      widget_id: 2

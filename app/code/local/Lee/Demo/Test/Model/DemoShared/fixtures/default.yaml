@@ -1,0 +1,43 @@
+tables:
+  Lee_Demo/Widget:
+    - id: 1
+      name: "Widget 1"
+    - id: 2
+      name: "Widget 2"
+    - id: 3
+      name: "Widget 3"
+    - id: 4
+      name: "Widget 4"
+    - id: 5
+      name: "Widget 5"
+  Lee_Demo/Doodad:
+    - id: 11
+      name: "Doodad 1.1"
+      widget_id: 1
+    - id: 12
+      name: "Doodad 1.2"
+      widget_id: 1
+    - id: 21
+      name: "Doodad 2.1"
+      widget_id: 2
+    - id: 22
+      name: "Doodad 2.2"
+      widget_id: 2
+    - id: 31
+      name: "Doodad 3.1"
+      widget_id: 3
+    - id: 32
+      name: "Doodad 3.2"
+      widget_id: 3
+    - id: 41
+      name: "Doodad 4.1"
+      widget_id: 4
+    - id: 42
+      name: "Doodad 4.2"
+      widget_id: 4
+    - id: 51
+      name: "Doodad 5.1"
+      widget_id: 5
+    - id: 52
+      name: "Doodad 5.2"
+      widget_id: 5

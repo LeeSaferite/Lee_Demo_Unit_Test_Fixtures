@@ -1,0 +1,4 @@
+- entity_string: Lee_Demo/Widget
+  table_name:    lee_demo_widget
+- entity_string: Lee_Demo/Doodad
+  table_name:    lee_demo_doodad

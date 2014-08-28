@@ -1,0 +1,4 @@
+- widget: 1
+  doodads: [1, 2]
+- widget: 2
+  doodads: [3, 4]

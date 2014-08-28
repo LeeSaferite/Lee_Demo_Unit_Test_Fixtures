@@ -1,0 +1,8 @@
+- model_string:     Lee_Demo/Widget
+  model_class:      Lee_Demo_Model_Widget
+  resource_class:   Lee_Demo_Resource_Widget
+  collection_class: Lee_Demo_Resource_Widget_Collection
+- model_string:     Lee_Demo/Doodad
+  model_class:      Lee_Demo_Model_Doodad
+  resource_class:   Lee_Demo_Resource_Doodad
+  collection_class: Lee_Demo_Resource_Doodad_Collection

@@ -1,0 +1,10 @@
+- widget: 1
+  doodads: [11, 12]
+- widget: 2
+  doodads: [21, 22]
+- widget: 3
+  doodads: [31, 32]
+- widget: 4
+  doodads: [41, 42]
+- widget: 5
+  doodads: [51, 52]
