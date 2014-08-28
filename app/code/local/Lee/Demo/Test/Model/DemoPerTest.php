@@ -27,16 +27,6 @@ class Lee_Demo_Test_Model_DemoPerTest extends EcomDev_PHPUnit_Test_Case
         $this->demo($widgetId, $doodadIds);
     }
 
-    /**
-     * @test
-     * @dataProvider dataProvider
-     * @loadFixture demo3
-     */
-    public function demo3($widgetId, array $doodadIds)
-    {
-        $this->demo($widgetId, $doodadIds);
-    }
-
     protected function demo($widgetId, array $doodadIds)
     {
         $widgetId = intval($widgetId);
